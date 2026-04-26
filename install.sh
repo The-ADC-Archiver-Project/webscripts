@@ -1,0 +1,1 @@
+mkdir -p ~/adc-temp && cd ~/adc-temp && wget -O adc.tar.xz "https://github.com/Mealman1551/ArchivedDataCodec/releases/download/v1.4.5/adc.tar.xz" && tar -xJf adc.tar.xz && sudo ./install.sh && cd ~ && rm -rf ~/adc-temp
