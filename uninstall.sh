@@ -1,1 +1,1 @@
-"https://raw.githubusercontent.com/The-ADC-Archiver-Project/tarball-meta/refs/heads/master/remove.sh" | bash
+wget -O- "https://raw.githubusercontent.com/The-ADC-Archiver-Project/tarball-meta/refs/heads/master/remove.sh" | bash
